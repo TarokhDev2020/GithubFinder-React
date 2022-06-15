@@ -3,6 +3,10 @@
 
 Search and get the most trending github repositories
 
+## Features
+* Search functionality
+* Detail page for each user at github
+* See users information like number of followers, following, stars and latest repositories
 
 ## Dependencies
 
